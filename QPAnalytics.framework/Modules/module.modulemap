@@ -1,0 +1,6 @@
+framework module QPAnalytics {
+  umbrella header "QPAnalytics.h"
+
+  export *
+  module * { export * }
+}
